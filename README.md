@@ -4,7 +4,7 @@
 - [x] [Insertion sort](https://github.com/gptjddldi/go-ds/blob/master/sort/insertion_sort.go)
 - [x] [Selection sort](https://github.com/gptjddldi/go-ds/blob/master/sort/selection_sort.go)
 - [x] [Bubble sort](https://github.com/gptjddldi/go-ds/blob/master/sort/bubble_sort.go)
-- [ ] Merge sort
+- [x] [Merge sort]((https://github.com/gptjddldi/go-ds/blob/master/sort/merge_sort.go))
 - [ ] Quicksort
 - [ ] Heapsort
 - [ ] Counting sort
