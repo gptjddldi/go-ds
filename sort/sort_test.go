@@ -104,3 +104,11 @@ func Test_bubbleSort2(t *testing.T) {
 		})
 	}
 }
+
+func Test_mergeSort(t *testing.T) {
+	for _, tt := range sortTestCases {
+		t.Run(tt.name, func(t *testing.T) {
+			assert.Equal(t, tt.want, mergeSort(tt.arr), tt.name)
+		})
+	}
+}
