@@ -112,3 +112,19 @@ func Test_mergeSort(t *testing.T) {
 		})
 	}
 }
+
+func Test_quickSort(t *testing.T) {
+	for _, tt := range sortTestCases {
+		t.Run(tt.name, func(t *testing.T) {
+			assert.Equal(t, tt.want, quickSort(tt.arr), tt.name)
+		})
+	}
+}
+
+func Test_heapSort(t *testing.T) {
+	for _, tt := range sortTestCases {
+		t.Run(tt.name, func(t *testing.T) {
+			assert.Equal(t, tt.want, heapSort(tt.arr), tt.name)
+		})
+	}
+}

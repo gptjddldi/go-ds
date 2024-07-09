@@ -4,9 +4,9 @@
 - [x] [Insertion sort](https://github.com/gptjddldi/go-ds/blob/master/sort/insertion_sort.go)
 - [x] [Selection sort](https://github.com/gptjddldi/go-ds/blob/master/sort/selection_sort.go)
 - [x] [Bubble sort](https://github.com/gptjddldi/go-ds/blob/master/sort/bubble_sort.go)
-- [x] [Merge sort]((https://github.com/gptjddldi/go-ds/blob/master/sort/merge_sort.go))
-- [ ] Quicksort
-- [ ] Heapsort
+- [x] [Merge sort](https://github.com/gptjddldi/go-ds/blob/master/sort/merge_sort.go)
+- [x] [Quicksort](https://github.com/gptjddldi/go-ds/blob/master/sort/quick_sort.go)
+- [x] [Heapsort](https://github.com/gptjddldi/go-ds/blob/master/sort/heap_sort.go)
 - [ ] Counting sort
 
 [//]: # (- [ ] [Merge sort]&#40;https://en.wikipedia.org/wiki/Merge_sort&#41;)
