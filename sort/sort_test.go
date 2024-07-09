@@ -128,3 +128,12 @@ func Test_heapSort(t *testing.T) {
 		})
 	}
 }
+
+// counting sort only works for non-negative integers
+//func Test_countingSort(t *testing.T) {
+//	for _, tt := range sortTestCases {
+//		t.Run(tt.name, func(t *testing.T) {
+//			assert.Equal(t, tt.want, countingSort(tt.arr), tt.name)
+//		})
+//	}
+//}

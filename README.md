@@ -7,7 +7,7 @@
 - [x] [Merge sort](https://github.com/gptjddldi/go-ds/blob/master/sort/merge_sort.go)
 - [x] [Quicksort](https://github.com/gptjddldi/go-ds/blob/master/sort/quick_sort.go)
 - [x] [Heapsort](https://github.com/gptjddldi/go-ds/blob/master/sort/heap_sort.go)
-- [ ] Counting sort
+- [x] [Counting sort](https://github.com/gptjddldi/go-ds/blob/master/sort/counting_sort.go)
 
 [//]: # (- [ ] [Merge sort]&#40;https://en.wikipedia.org/wiki/Merge_sort&#41;)
 
