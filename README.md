@@ -49,3 +49,7 @@
 
 [//]: # ()
 [//]: # ()
+
+
+### Et cetera
+- [X] [Consistent Hash](https://github.com/gptjddldi/go-ds/blob/master/consistent_hash)
